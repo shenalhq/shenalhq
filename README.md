@@ -30,6 +30,7 @@
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=cs" />
   <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=r" />
 </p>
 
 ### Frontend Development
@@ -37,7 +38,10 @@
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
 </p>
 
 ### Backend Development
@@ -45,6 +49,7 @@
   <img src="https://skillicons.dev/icons?i=php" />
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=supabase" />
 </p>
 
 ### Mobile Development
@@ -56,19 +61,19 @@
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=supabase" />
 </p>
 
 ### Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=visualstudio" />
   <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" width="50" height="50/>
+  <img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=androidstudio" />
   <img src="https://skillicons.dev/icons?i=anaconda" />
   <img src="https://skillicons.dev/icons?i=figma" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
-
 </p>
 
 ---
@@ -83,18 +88,24 @@
 
 ---
 
-##  GitHub Stats
+##  GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shenalhq&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img
+    src="https://streak-stats.demolab.com?user=shenalhq&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shenalhq&theme=tokyonight" alt="GitHub Streak" />
-</p>
+---
+
+##  Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenalhq&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shenalhq&theme=tokyo-night&hide_border=true"
+    width="100%"
+  />
 </p>
 
 ---
