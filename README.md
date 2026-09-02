@@ -1,11 +1,11 @@
-<img src="mario.gif" />
-
-<h1 align="center">Hi 👋, I'm Shenal Perera</h1>
+<h1 align="center">Hola 👋, I'm Shenal Perera</h1>
 <h3 align="center">Full-Stack Developer | Software Engineering Student</h3>
 
 <p align="center">
   Passionate about building modern web and mobile applications while continuously learning new technologies.
 </p>
+
+<img src="mario.gif" />
 
 ---
 
@@ -20,11 +20,11 @@
 
 ---
 
-##  Tech Stack
+##  Languages & Tools
 
-### Programming Languages
+<h3>Programming Languages</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=java"  />
   <img src="https://skillicons.dev/icons?i=php" />
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=js" />
@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=r" />
 </p>
 
-### Frontend Development
+<h3>Frontend</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
@@ -44,27 +44,29 @@
   <img src="https://skillicons.dev/icons?i=nextjs" />
 </p>
 
-### Backend Development
+<h3>Backend</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=supabase" />
 </p>
 
-### Mobile Development
+<h3>Mobile Development</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio" />
 </p>
 
-### Databases
+<h3>Database</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb">
   <img src="https://skillicons.dev/icons?i=supabase" />
 </p>
 
-### Tools & Technologies
+<h3>Tools & Technologies</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=visualstudio" />
   <img src="https://skillicons.dev/icons?i=vscode" />
@@ -99,16 +101,6 @@
 
 ---
 
-##  Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shenalhq&theme=tokyo-night&hide_border=true"
-    width="100%"
-  />
-</p>
-
----
 
 ##  Connect With Me
 
